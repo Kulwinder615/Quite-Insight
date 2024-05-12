@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208082060665",
+    "project_id": "quit-6bb83",
+    "storage_bucket": "quit-6bb83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208082060665:android:48ad4034cd7fb129b09ba8",
+        "android_client_info": {
+          "package_name": "com.mansourappdevelopment.androidapp.kidsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN66HIss4OUIowShUWor9iYV58W4QLJFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
